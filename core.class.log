@@ -1,0 +1,38 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '447456094679@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB8E989201DF457CBB9',
+    participant: undefined
+  },
+  messageTimestamp: 1712057695,
+  pushName: 'Gonza Sabaino',
+  broadcast: false,
+  message: Message {
+    conversation: 'Dame 3 nombres de perros',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dame 3 nombres de perros',
+  from: '447456094679'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_20d5bbd9-a930-42b8-9969-8f44f09db678',
+  keyword: 'key_bda2482d-a83a-4e31-861a-7d5997817ac5',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3eb16f8893673a07755c4463b60bf52f'
+}
